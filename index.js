@@ -170,3 +170,5 @@ variableInterestRate(200000, 0.04, 30);
 
 
 // /* 🏡  Refactor your `variableInterestRate()` function to accept an array of interest rates (make sure to copy and paste as to not lose your work!) 
+
+  
